@@ -6,3 +6,4 @@
 
 !.gitignore
 !.packge-lock.json
+!.src
