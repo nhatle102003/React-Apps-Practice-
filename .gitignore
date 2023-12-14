@@ -5,5 +5,5 @@
 #unignore what we want to track
 
 !.gitignore
-!.json
+!node_modules 
 !src
